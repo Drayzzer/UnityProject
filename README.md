@@ -22,7 +22,6 @@ ca a etait un projet qui m'a appris énormement
 - menu in game
 - restart du niveau suite a une mort
 - utilisation de cinemachine
-- 
 
 ## 🧱 Technologies
 
